@@ -125,10 +125,11 @@
 			}
 		},
 		{
-			"file": "asyncdemo.sublime-project",
+			"file": "/media/flametest/Data/work/free_package_0309/periodical/deal_stat.py",
 			"settings":
 			{
-				"buffer_size": 421,
+				"buffer_size": 41572,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -193,8 +194,9 @@
 	},
 	"expanded_folders":
 	[
-		"/media/flametest/Data/MyWorkSpace",
-		"/media/flametest/Data/MyWorkSpace/AsyncDemo"
+		"/media/flametest/Data/work",
+		"/media/flametest/Data/work/free_package_0309",
+		"/media/flametest/Data/work/free_package_0309/periodical"
 	],
 	"file_history":
 	[
@@ -277,7 +279,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -297,6 +299,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"one_arr_process",
 			"setdefault",
 			"redis",
 			"reids",
@@ -343,7 +346,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -382,35 +385,37 @@
 						"translation.y": 186.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "asyncdemo.sublime-project",
+					"file": "/media/flametest/Data/work/free_package_0309/periodical/deal_stat.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 421,
+						"buffer_size": 41572,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								35939,
+								35954
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 11615.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
