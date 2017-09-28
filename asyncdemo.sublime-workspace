@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"time_taken\tstatement"
+			],
+			[
+				"get",
+				"get_statuses\tfunction"
+			],
+			[
+				"sta",
+				"statuses\tstatement"
+			],
+			[
+				"num",
+				"nums\tparam"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"u",
+				"uniquePaths\tfunction"
+			],
+			[
+				"di",
+				"discard\tfunction"
+			],
+			[
+				"max",
+				"max_val\tstatement"
+			],
+			[
+				"k",
+				"kthSmallest\tfunction"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"in",
+				"intervals\tparam"
+			],
+			[
+				"stack1",
+				"stack1\tstatement"
+			],
+			[
+				"min",
+				"min_val\tstatement"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"trap",
+				"trap_helper\tfunction"
+			],
+			[
+				"itme",
+				"item1\tstatement"
+			],
+			[
+				"con",
+				"count_five\tfunction"
+			],
+			[
+				"t",
+				"trailingZeroes\tfunction"
+			],
+			[
+				"ge",
+				"generate_one"
+			],
+			[
+				"n",
+				"numRows"
+			],
+			[
+				"bin",
+				"bin_num\tstatement"
+			],
+			[
+				"so",
+				"Solution\tclass"
+			],
+			[
+				"sol",
+				"solutions"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"p",
+				"position\tstatement"
+			],
+			[
+				"cl",
+				"climbStairs\tfunction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "no_concurrency.py",
+			"settings":
+			{
+				"buffer_size": 804,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "asyncdemo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/flametest/Data/MyWorkSpace",
+		"/media/flametest/Data/MyWorkSpace/AsyncDemo"
+	],
+	"file_history":
+	[
+		"/media/flametest/Data/MyWorkSpace/AsyncDemo/no_concurrency.py",
+		"/media/flametest/Data/MyWorkSpace/AsyncDemo/asyncdemo.sublime-project",
+		"/media/flametest/Data/MyWorkSpace/leetcode/n_queens.py",
+		"/media/flametest/Data/work/tornado/tornado/util.py",
+		"/media/flametest/Data/work/tornado/tornado/ioloop.py",
+		"/media/flametest/Data/work/tornado/tornado/platform/epoll.py",
+		"/media/flametest/Data/work/tornado/tornado/platform/windows.py",
+		"/media/flametest/Data/work/free_package_0309/web/request_mapping.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/word_ladder.py",
+		"/media/flametest/Data/work/free_package_0109/periodical/deal_stat.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/path_sum_iii.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/path_sum_ii.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/path_sum.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/pow.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/symmetric_tree.py",
+		"/media/flametest/Data/MyWorkSpace/untitled.py",
+		"/media/flametest/Data/work/superset/superset/utils.py",
+		"/media/flametest/Data/work/superset/superset/views.py",
+		"/media/flametest/Data/work/superset/superset/assets/javascripts/index.jsx",
+		"/media/flametest/Data/work/superset/superset/templates/superset/basic.html",
+		"/media/flametest/Data/work/superset/superset/templates/index.html",
+		"/media/flametest/Data/MyWorkSpace/leetcode/remove_nth_node_from_end_of_list.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/word_break.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/longest_substring_without_repeating_characters.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/implement_trie.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/course_schedule.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/binary_tree_level_order_traversel_II.py",
+		"/media/flametest/Data/work/superset/superset/cli.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/container_with_most_water.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/3sum.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/product_of_array_except_self.py",
+		"/media/flametest/Data/work/free_package/util/common/src/CTool.c",
+		"/media/flametest/Data/work/free_package/util/common/format_hotel.py",
+		"/media/flametest/Data/work/free_package/util/common/freepkg.py",
+		"/media/flametest/Data/work/free_package/util/common/CTool_win.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/unique_paths.py",
+		"/media/flametest/Data/MyWorkSpace/Dynamic_Programming_for_Interviews.pdf",
+		"/media/flametest/Data/MyWorkSpace/leetcode/copy_list_with_random_pointer.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/permutations.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/odd_even_linked_list.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/longest_common_prefix.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/kth_largest_element_in_an_array.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/maximum_subarrary.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/maximum_product_subarrary.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/word_search.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/kth_smallest_element_in_a_BST.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/fraction_to_recurring_decimal.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/linked_list_cycle.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/min_stack.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/construct_binary_tree_from_preorder_and_inorder_traversal.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/count_primes.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/letter_combinations_of_a_phone_number.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/palindrome_linked_list.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/merge_intervals.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/binary_tree_inorder_traversal.py",
+		"/home/flametest/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/flametest/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/flametest/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/media/flametest/Data/MyWorkSpace/leetcode/base_7.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/h_index.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/minimum_absolute_difference_in_BST.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/validate_binary_search_tree.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/gas_station.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/trapping_rain_water.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/top_k_frequent_elements.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/.gitignore",
+		"/media/flametest/Data/MyWorkSpace/leetcode/factorial_trailing_zeroes.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/pascal's_triangle.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/valid_parentheses.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/number_of_1_bits.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/ugly_number.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/climbing_stairs.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/find_the_duplicate_number.py",
+		"/media/flametest/Data/MyWorkSpace/leetcode/power_of_three.py",
+		"/home/flametest/.config/sublime-text-3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/home/flametest/.config/sublime-text-3/Packages/User/SublimeTmpl.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/media/flametest/Data/work/free_package_0309",
+			"/media/flametest/Data/work/free_package_0309/web",
+			"/media/flametest/Data/work/free_package_0309",
+			"/media/flametest/Data/work/superset/superset/templates",
+			"/media/flametest/Data/work",
+			"/media/flametest/Data/work/free_package_0604"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setdefault",
+			"redis",
+			"reids",
+			"redis",
+			"reids",
+			"DruidMetricInlineView",
+			"id=\"app\"",
+			"set_supplier_offline",
+			"generate_requests",
+			"PollIOLoop",
+			"Configurable",
+			"107",
+			"1073",
+			"1027",
+			"ext_parse_hotel_price_info",
+			"METH_VARARGS",
+			"ext_parse_hotel_price_info",
+			"PyMethodDef",
+			"CTool",
+			"get_split_info",
+			"CTool",
+			"expand_hotel_info",
+			"#include",
+			"include",
+			"Parse",
+			"*.c",
+			"\n            ",
+			"y",
+			"x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "no_concurrency.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "asyncdemo.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "asyncdemo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
